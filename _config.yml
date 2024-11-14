@@ -1,4 +1,4 @@
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 title: Text-CARD
 description: The official examples of article "Temporal Scene-Text Calibrating and Distilling for Text-Video Retrieval"
 github:
